@@ -16,4 +16,7 @@ Sentiment analysis is a tool that automatically monitors emotions in conversatio
 
 Carefully listening to the voice of the customer on Twitter using sentiment analysis allows companies to understand their audience, keep on top of what’s being said about their brand – and their competitors – and discover new trends in the industry.
 
-
+***Trained Model***
+* The model that i have trained was around 88mb so i had to compress it to upload. If you are using it, extract the same.
+* I have also uploaded the checkpoints just incase.
+* The link for the dataset is in the read me file.
